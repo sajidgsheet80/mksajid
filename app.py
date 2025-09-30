@@ -7,7 +7,7 @@ import os
 # ---- Credentials ----
 client_id = "VMS68P9EK0-100"
 secret_key = "ZJ0CFWZEL1"
-redirect_uri = "http://127.0.0.1:5000/callback"
+redirect_uri = "https://mksajid.onrender.com/callback"
 grant_type = "authorization_code"
 response_type = "code"
 state = "sample"
